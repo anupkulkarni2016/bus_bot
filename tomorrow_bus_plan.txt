@@ -1,0 +1,13 @@
+🚌 Bus plan for 2025-08-28 (buffer 10 min)
+
+=== Shift 10:00 @ THE BELL ROUNDABOUT, SHENLEY, ST. ALBANS, AL21BX, UNITED KINGDOM ===
+Leave home by: 8:21 AM
+Total: 1 hour 5 mins (arrive 9:26 AM)
+Walk: 1 min
+BUS 602: Memorial Hall 8:22 AM → Bishop's Close 8:26 AM
+Walk: 1 min
+BUS 610 Dragonfly: Bishop's Close 8:33 AM → Potters Bar Railway Station (Stop D) 9:01 AM
+Walk: 1 min
+BUS 84: Potters Bar Railway Station (Stop B) 9:08 AM → The Bell Roundabout 9:24 AM
+Walk: 2 mins
+Open in Maps: https://www.google.com/maps/dir/?api=1&origin=19+FRENCH+HORN+LANE%2C+HATFIELD%2C+AL108AG%2C+UNITED+KINGDOM&destination=THE+BELL+ROUNDABOUT%2C+SHENLEY%2C+ST.+ALBANS%2C+AL21BX%2C+UNITED+KINGDOM&travelmode=transit&arrival_time=1756371000

@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "C:\Users\ACER\OneDrive - University of Hertfordshire\Desktop\bus-bot\bus_bot.py", line 148, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ACER\OneDrive - University of Hertfordshire\Desktop\bus-bot\bus_bot.py", line 136, in main
+    print(report)
+    ~~~~~^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f68c' in position 0: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\ACER\OneDrive - University of Hertfordshire\Desktop\bus-bot\bus_bot.py", line 148, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ACER\OneDrive - University of Hertfordshire\Desktop\bus-bot\bus_bot.py", line 136, in main
+    print(report)
+    ~~~~~^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f68c' in position 0: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\ACER\OneDrive - University of Hertfordshire\Desktop\bus-bot\bus_bot.py", line 148, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ACER\OneDrive - University of Hertfordshire\Desktop\bus-bot\bus_bot.py", line 136, in main
+    print(report)
+    ~~~~~^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f68c' in position 0: character maps to <undefined>
+2025-08-27 13:40:56,702 INFO API queries_quota: 60
+2025-08-27 13:40:56,736 INFO Planning for 2025-08-28; shifts found: 1
